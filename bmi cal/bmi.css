@@ -1,5 +1,5 @@
 body {
-    background-color: #eee;
+    background-color: #03fca9;
     text-align: center;
 }
 
@@ -37,9 +37,9 @@ input:focus {
 }
 
 form {
-    background-color: #fff;
+    background-color: #e8fc03;
     padding: 75px;
-    color: #000;
+    color: #03c2fc;
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.4);
 }
 
