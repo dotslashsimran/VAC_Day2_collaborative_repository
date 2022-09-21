@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background: linear-gradient(to top right, #4f4fc3 0%, #006666 100%);
+}
+button{
+    width: 25%;
+    height: 30px;
+    color: #bbbbfd;
+    background-color: black;
+}
